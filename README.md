@@ -8,4 +8,4 @@ My first completed app. It has four separate features and was a project I used t
 <img src="View01.png" height = 500> <img src="View02.png" height = 500>
 <img src="View03.png" height = 500><img src="View04.png" height = 500>
 <img src="View05.png" height = 500><img src="View06.png" height = 500>
-<img src="View07.png" height = 500>
+<img src="View07.png" height = 500><img src="View08.png" height = 500>
